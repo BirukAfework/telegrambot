@@ -4,11 +4,11 @@ import json
 import os
 
 # Replace with your actual BotFather token
-TOKEN = '8129296827:AAHwjyWhyjlNvJB24xOXk2GyDF2uKZVr2Ow'
+TOKEN = '11111111111111111111111111111111111111111111111111'
 
 # Admin user IDs (replace with your Telegram user ID)
-ADMIN_IDS = [7583523087]
-ADMIN_IDS = [2059396078]# Replace with your actual Telegram user ID
+
+ADMIN_IDS = [11111111111]# Replace with your actual Telegram user ID
 
 # Options
 GRADE_OPTIONS = ['9th', '10th', '11th', '12th']
